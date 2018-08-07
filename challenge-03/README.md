@@ -163,7 +163,7 @@ pessoa.apresentacao = function() {
     var ola = "a"
   }
   if(pessoa.idade == 1){
-    var idade = "anos"
+    var idade = "ano"
   }
   if(pessoa.caminhouQuantosMetros == 1){
     var metro = "metro"
